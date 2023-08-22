@@ -1,0 +1,12 @@
+yolov5/
+place_dataset/
+char_data/
+place_dataset/
+plate_ser_dataset/
+.ipynb_checkpoints/
+plate_serial_labels/
+
+*.jpg
+*.txt
+*.zip
+*.csv
