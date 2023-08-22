@@ -5,6 +5,8 @@ place_dataset/
 plate_ser_dataset/
 .ipynb_checkpoints/
 plate_serial_labels/
+v2_place_dataset/
+province_label/
 
 *.jpg
 *.txt
